@@ -1,4 +1,3 @@
-snippets
-========
+# Snippets for snipMate.vim
 
-Some snippets for snipMate.vim
+* haskell
